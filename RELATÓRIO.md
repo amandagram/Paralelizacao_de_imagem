@@ -182,7 +182,7 @@ Para p = 12: Speedup(12) = 171,11 / 34,10 = 5,02  →  Eficiência(12) = 5,02 / 
 * Eixo Y: tempo de execução (segundos)
 
 
-
+tempo_execucao.png
 
 
 
@@ -199,7 +199,7 @@ Para p = 12: Speedup(12) = 171,11 / 34,10 = 5,02  →  Eficiência(12) = 5,02 / 
 * Incluir também a **linha de speedup ideal (linear)** para comparação
 
 
-
+speedup.png
 
 ---
 
@@ -214,7 +214,7 @@ Para p = 12: Speedup(12) = 171,11 / 34,10 = 5,02  →  Eficiência(12) = 5,02 / 
 * Valores entre 0 e 1
 
 
-
+eficiencia.png
 
 ---
 
