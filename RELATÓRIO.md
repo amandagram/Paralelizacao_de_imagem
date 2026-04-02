@@ -160,7 +160,7 @@ Para p = 12: Speedup(12) = 171,11 / 34,10 = 5,02  →  Eficiência(12) = 5,02 / 
 
 # 6. Tabela de Resultados
 
-Preencha a tabela abaixo utilizando os tempos medidos.
+
 
 | Threads/Processos | Tempo (s) | Speedup | Eficiência |
 | ----------------- | --------- | ------- | ---------- |
@@ -174,23 +174,23 @@ Preencha a tabela abaixo utilizando os tempos medidos.
 
 # 7. Gráfico de Tempo de Execução
 
-Construa um gráfico mostrando o **tempo de execução em função do número de threads/processos**.
+
 
 ## Orientações
 
 * Eixo X: número de threads/processos
 * Eixo Y: tempo de execução (segundos)
 
-Inserir o gráfico abaixo:
 
-<img width="937" height="576" alt="image" src="https://github.com/user-attachments/assets/87005b53-eb78-4f24-9412-3ab609896da4" />
+
+
 
 
 ---
 
 # 8. Gráfico de Speedup
 
-Construa um gráfico mostrando o **speedup obtido**.
+
 
 ## Orientações
 
@@ -198,16 +198,14 @@ Construa um gráfico mostrando o **speedup obtido**.
 * Eixo Y: speedup
 * Incluir também a **linha de speedup ideal (linear)** para comparação
 
-Inserir o gráfico abaixo:
 
-<img width="938" height="579" alt="image" src="https://github.com/user-attachments/assets/b842c86c-816d-4f47-aafe-52626710b17c" />
 
 
 ---
 
 # 9. Gráfico de Eficiência
 
-Construa um gráfico mostrando a **eficiência da paralelização**.
+
 
 ## Orientações
 
@@ -215,9 +213,7 @@ Construa um gráfico mostrando a **eficiência da paralelização**.
 * Eixo Y: eficiência
 * Valores entre 0 e 1
 
-Inserir o gráfico abaixo:
 
-<img width="939" height="581" alt="image" src="https://github.com/user-attachments/assets/8e1dbe3f-c9d0-4074-9ab2-200ce7124e20" />
 
 
 ---
